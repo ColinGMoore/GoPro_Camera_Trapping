@@ -8,7 +8,7 @@ servo_gopro.ino is Arduino C++ code for controlling recording on a GoPro camera 
 starting and stopping recording by tapping the screen button on the GoPro Quick App.  Tested using an Arduino Uno R4 wifi and a GoPro 11 Black camera.
 The hardware includes the following:
 
-HC-SR501 PIR sensor
-Quiachip TX118S transmitter and RX480E receiver
-Miuzei Micro Servo 9g MS18
+HC-SR501 PIR sensor, 
+Quiachip TX118S transmitter and RX480E receiver, 
+Miuzei Micro Servo 9g MS18, 
 MEKO Universal Stylus Pen for Touch Screens
