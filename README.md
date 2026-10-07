@@ -1,3 +1,8 @@
+The following files are provided as an accompanying resource for the Youtube video:
+https://www.youtube.com/watch?v=qoqdVUnu3dQ
+
+The video describes three methods for using a GoPro as a camera trap.
+
 GoPro_motion_detection_QR.jpg is a GoPro Labs QR code for motion detection by comparison of consecutive frames.  Tested on a GoPro 11 Black.
 
 GoPro_USB_boot_QR.jpg is a GoPro Labs QR code for booting the camera on and starting recording.  Tested on a GoPro 11 Black.
